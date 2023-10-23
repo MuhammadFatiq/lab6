@@ -1,0 +1,15 @@
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\bin\Debug\net6.0\LAB6exercise2.exe
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\bin\Debug\net6.0\LAB6exercise2.deps.json
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\bin\Debug\net6.0\LAB6exercise2.runtimeconfig.json
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\bin\Debug\net6.0\LAB6exercise2.dll
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\bin\Debug\net6.0\LAB6exercise2.pdb
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\obj\Debug\net6.0\LAB6exercise2.csproj.AssemblyReference.cache
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\obj\Debug\net6.0\LAB6exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\obj\Debug\net6.0\LAB6exercise2.AssemblyInfoInputs.cache
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\obj\Debug\net6.0\LAB6exercise2.AssemblyInfo.cs
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\obj\Debug\net6.0\LAB6exercise2.csproj.CoreCompileInputs.cache
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\obj\Debug\net6.0\LAB6exercise2.dll
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\obj\Debug\net6.0\refint\LAB6exercise2.dll
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\obj\Debug\net6.0\LAB6exercise2.pdb
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\obj\Debug\net6.0\LAB6exercise2.genruntimeconfig.cache
+C:\Users\213009\source\repos\LAB6exercise2\LAB6exercise2\obj\Debug\net6.0\ref\LAB6exercise2.dll
